@@ -1,3 +1,2 @@
 # gits-msib4-tugas2
-Amirudin
-Universitas KH. Bahaudin Mudhary Madura
+Amirudin | Universitas KH. Bahaudin Mudhary Madura
