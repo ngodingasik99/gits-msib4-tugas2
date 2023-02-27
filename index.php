@@ -52,7 +52,7 @@
           <div class="col-md-6">
             <h1 class="judul-jumbotron">AMIRUDIN</h1>
             <p class="content-jumbotron">
-              <?php 
+              <?php  
                 echo jumbotron; 
               ?>
             </p><br>
